@@ -1,4 +1,4 @@
-# Hi! I'm Ena :D
+# Hi! I'm Ena 👋
 ## About Me
 I'm a sophomore studying CS @ San Jose State University. 
 
