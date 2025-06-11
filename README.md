@@ -1,6 +1,6 @@
 # Hi! I'm Ena 👋
 ## About Me
-I'm a sophomore studying CS @ San Jose State University. 
+I'm an incoming junior studying CS @ San Jose State University. 
 
 ## Tech Stack
 - **Languages**: Java, Python
