@@ -1,4 +1,4 @@
-# Hi! I'm Ena 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7CBD82&width=435&lines=Hi!+I'm+Ena+Macahiya+%F0%9F%91%8B)](https://git.io/typing-svg)
 ## About Me
 I'm an incoming junior studying CS @ San Jose State University. 
 
