@@ -23,7 +23,7 @@ I'm an incoming junior studying CS @ San Jose State University.
 💼 [LinkedIn](www.linkedin.com/in/ena-macahiya-615ba2218)
 
 ## Spotify Widget
-🎵 What am I listening to? 
+🎵 Fun Fact: I really love music! What am I listening to? 
 
 <img id="Spotify-now-playing-1"
           src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=_enam_&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
