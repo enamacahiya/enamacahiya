@@ -41,6 +41,10 @@ Turned unstructured conversational data into structured JSON data using LLMs to 
 📧 enacjmac@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/ena-macahiya-615ba2218)
 
+## Github Stats!
+
+[![ena's GitHub stats](https://github-readme-stats.vercel.app/api?username=enamacahiya&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🎵 What I'm Listening To
 > Fun Fact: I code better when music is playing ^-^ ⋆ ˚｡⋆୨୧˚🎧
 
